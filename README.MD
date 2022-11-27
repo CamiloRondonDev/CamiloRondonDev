@@ -1,5 +1,5 @@
 <div class= "imagen" align="center"  >
-<img width="80%"  src="developerGIT_2.gif"/>
+<img width="80%"  src="developerGIT_1.gif"/>
 </div>
 
 <h2 align="center" > Hola 👋, soy Camilo</h2>   
