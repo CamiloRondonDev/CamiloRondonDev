@@ -3,10 +3,9 @@
 </div>
 
 <h2 align="center" > Hola 👋, soy Camilo</h2>   
-<h3 align="center" >Desarrollador Junior 💻</h3>
+<h3 align="center" >Desarrollador 💻</h3>
 
              🎓 Soy estudiante de septimo semestre de ingeniería de sistemas.
-             🌱 Actualmente estoy aprendiendo [Desarrollo en javascript].
              💻 Estoy en proceso de crear mi portafolio.
              💳 trabajo en Desarrollo Aplicativos ERP
 
